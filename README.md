@@ -12,3 +12,6 @@ pip install -r requirements.txt
 
 ## License
 MIT
+
+## Notes
+- works on Base RPCs, untested on public nodes with heavy rate limits
