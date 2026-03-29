@@ -15,3 +15,8 @@ MIT
 
 ## Notes
 - works on Base RPCs, untested on public nodes with heavy rate limits
+
+## Roadmap
+- [x] core flow
+- [ ] config file support
+- [ ] docker image
